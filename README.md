@@ -1,1 +1,1 @@
-# module2_lesson7
+This repository includes all the assignments for module 2 lesson 7.
